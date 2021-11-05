@@ -1,4 +1,5 @@
 def hello(p):
     return f'Hello {p}!'
 
-print(hello(None))
+name=input("Enter your name: ")
+print(hello(name))
