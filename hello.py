@@ -3,3 +3,4 @@ def hello(p):
 
 name=input("Enter your name: ")
 print(hello(name))
+print("What is your favourite colour?")
